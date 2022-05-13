@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rererenan
+- 👀 I’m interested in Elixir
+- 🌱 I’m currently learning Elixir and functional programming
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 How to reach me rererenan@protonmail.com
